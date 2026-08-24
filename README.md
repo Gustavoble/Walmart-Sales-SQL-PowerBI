@@ -187,15 +187,7 @@ Key Business Insights
 Business Recommendations
 📸 Dashboard Screenshots
 
-📌 Upload your screenshots to the screenshots folder, then they will display here.
 
-Sales Dashboard
-![Sales Dashboard](screenshots/dashboard_overview.png)
-Customer & Product Analysis
-![Customer and Product Analysis](screenshots/customer_product_analysis.png)
-Executive Insights
-![Executive Insights](screenshots/executive_insights.png)
-🔍 Key Insights
 
 Based on the analysis, the project helps identify:
 
@@ -299,14 +291,4 @@ Blessing Nhumba
 
 Data Analytics Portfolio Project
 
-Step 4 — Important: remove the extra ```markdown lines
 
-In the Dashboard Screenshots section above, don't leave the screenshot lines inside a code block. Your final README should contain them as normal lines like this:
-
-![Sales Dashboard](screenshots/dashboard_overview.png)
-
-
-![Customer and Product Analysis](screenshots/customer_product_analysis.png)
-
-
-![Executive Insights](screenshots/executive_insights.png)
